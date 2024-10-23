@@ -1,0 +1,13 @@
+12
+67/home/marwa/dev/typeScript/slajs-pizza/dist/slajs-pizza.3464ddca.js1729684264512563562 0
+65/home/marwa/dev/typeScript/slajs-pizza/dist/index.377278e2.js.map1729684264512563562 0
+54/home/marwa/dev/typeScript/slajs-pizza/dist/index.html1729684264476563562 0
+49/home/marwa/dev/typeScript/slajs-pizza/index.html1729684034141438129 0
+51/home/marwa/dev/typeScript/slajs-pizza/src/index.ts1729684819730349102 0
+71/home/marwa/dev/typeScript/slajs-pizza/dist/slajs-pizza.3464ddca.js.map1729684264512563562 0
+61/home/marwa/dev/typeScript/slajs-pizza/dist/index.377278e2.js1729684264512563562 0
+43/home/marwa/dev/typeScript/slajs-pizza/dist1729684264476563562 1
+51/home/marwa/dev/typeScript/slajs-pizza/package.json1729683676869002776 0
+42/home/marwa/dev/typeScript/slajs-pizza/src1729684212836893291 1
+52/home/marwa/dev/typeScript/slajs-pizza/tsconfig.json1729683995249364270 0
+38/home/marwa/dev/typeScript/slajs-pizza1729684256591630951 1
