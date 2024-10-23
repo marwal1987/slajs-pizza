@@ -1,7 +1,0 @@
-6
-49/home/marwa/dev/typeScript/slajs-pizza/index.html1729684034141438129 0
-51/home/marwa/dev/typeScript/slajs-pizza/package.json1729683676869002776 0
-51/home/marwa/dev/typeScript/slajs-pizza/src/index.ts1729684212826488937 0
-42/home/marwa/dev/typeScript/slajs-pizza/src1729684212836893291 1
-52/home/marwa/dev/typeScript/slajs-pizza/tsconfig.json1729683995249364270 0
-38/home/marwa/dev/typeScript/slajs-pizza1729684256591630951 1
