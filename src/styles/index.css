@@ -1,0 +1,72 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  border-bottom: 2px solid black;
+  padding: 10px 8px;
+  background-color: bisque;
+  box-shadow: 2px 3px rgb(237, 237, 226);
+}
+
+header h1 {
+  max-width: 90rem;
+  margin: 0 auto;
+}
+
+main {
+  box-shadow: 2px 2px 1px rgb(53, 51, 51);
+  padding: 0px 24px;
+  max-width: 90rem;
+  margin: 40px auto;
+  border: 1px solid rgb(223, 215, 215);
+}
+
+#sectionWrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+section h2 {
+  width: 100%;
+  margin-top: 0;
+}
+
+section h2 {
+  text-decoration: underline;
+}
+
+/*each menu el*/
+.menuItem {
+  width: 100%;
+  max-width: 300px;
+  margin: 0 20px;
+}
+
+.imgContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.imgContainer img {
+  max-width: 150px;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.menuItem .price {
+  font-weight: bold;
+}
