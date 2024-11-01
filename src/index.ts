@@ -65,19 +65,19 @@ function showMenu(sectionId: string, items: (Pizza | Salad | Drink)[]) {
 
       let content = "";
       if (isPizza(item)) {
-        content = `<p>${item.description}</p>`;
+        // content = `<p>${item.description}</p>`; // Var denna ett krav?
         content += `<p><b>Toppings:</b> ${item.toppings.join(", ")}</p>`;
       } else if (isSalad(item)) {
         content = `<p>${item.ingredients.join(", ")}</p>`;
-      } else if(isDrink(item)) {
+      } else if (isDrink(item)) {
         content = `<p>${item.description}</p>`;
       }
 
       itemEl.innerHTML = `
-          <h3>${item.name} - ${item.price} SEK</h3>
-          <div class="imgContainer">
-            <img src="${item.imgUrl}" alt="${item.name}" />
-          </div>
+      <div class="imgContainer">
+      <img src="${item.imgUrl}" alt="${item.name}" />
+      </div>
+      <h3>${item.name} - ${item.price} SEK</h3>
           <p>${content}</p>
         `;
 
